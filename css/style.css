@@ -7,7 +7,7 @@ body {
     background: #F4F8FE;
     width: 100%;
     max-width: 100%;
-    background-image: url(../icons/background.SVG);
+    background-image: url(../icons/background.svg);
 }
 
 
@@ -243,7 +243,7 @@ body {
     margin: 0 auto;
     background: #FFFFFF;
     
-    background-image: url(/icons/background.svg);
+    background-image: url(../icons/background.svg);
 }
 
 .capabilities__title {
